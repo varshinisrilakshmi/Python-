@@ -1,0 +1,10 @@
+x="hello world"
+print(x[0:5])
+print(x[2:5])
+print(x[6:11])
+print(x[:5])
+print(x[3:])
+print(x[-11:-6])
+print(x[0:11:2])
+print(x[0:6:3])
+print(x[::-1])
