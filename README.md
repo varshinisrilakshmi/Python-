@@ -10,3 +10,6 @@ This repository contains my Python programming assignments and practical program
 
 ## Purpose
 This repository is created for learning Python programming and practicing version control using Git and GitHub.
+This project demonstrates GitHub branching and collaboration.
+ Click Commit changes.
+ Make sure the commit is saved to feature-readme-update, not main.
